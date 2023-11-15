@@ -1,0 +1,5 @@
+teacherId=gregory01 || email: ogregory+teacher+academy@chalk.com || firstName: Oliver || lastName: Gregory
+teacherId=lloyd01 || email: slloyd+teacher+academy@chalk.com || firstName: Shelley || lastName: Lloyd
+teacherId=osbourne01 || email: lsobourne+teacher+academy@chalk.com || firstName: Lee || lastName: Osbourne
+teacherId=walton01 || email: jwalton+teacher+academy@chalk.com || firstName: Joesphine || lastName: Walton
+teacherId=fernandez01 || email: ifernandez+support+teacher+academy@chalk.com || firstName: Inez || lastName: Fernandez
